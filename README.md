@@ -1,6 +1,6 @@
 Dimalsha Madushani
 # 💫 About Me:
-Undergraduate | Computer Science & Engineering|<br>University of Moratuwa|<br>Sri Lanka
+Undergraduate | Computer Science & Engineering |<br>University of Moratuwa|<br>Sri Lanka
 
 
 # 💻 Tech Stack:
